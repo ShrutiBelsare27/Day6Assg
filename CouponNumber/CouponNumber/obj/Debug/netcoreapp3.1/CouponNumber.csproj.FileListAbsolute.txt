@@ -1,0 +1,14 @@
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.exe
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.deps.json
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.runtimeconfig.json
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.runtimeconfig.dev.json
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.dll
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\bin\Debug\netcoreapp3.1\CouponNumber.pdb
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.csproj.AssemblyReference.cache
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.AssemblyInfoInputs.cache
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.AssemblyInfo.cs
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.csproj.CoreCompileInputs.cache
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.dll
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.pdb
+C:\Users\User\Desktop\Day6Assg\CouponNumber\CouponNumber\obj\Debug\netcoreapp3.1\CouponNumber.genruntimeconfig.cache
